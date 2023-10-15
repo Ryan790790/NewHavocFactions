@@ -1,4 +1,4 @@
-[eAIRegisterFaction(eAIFactionJaegar)]
+[eAIRegisterFaction(eAIFactionPasha)]
 class eAIFactionPasha : eAIFaction
 {
 	void eAIFactionPasha()

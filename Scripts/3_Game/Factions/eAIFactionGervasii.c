@@ -1,4 +1,4 @@
-[eAIRegisterFaction(eAIFactionPrapor)]
+[eAIRegisterFaction(eAIFactionGervasi)]
 class eAIFactionGervasii : eAIFaction
 {
 	void eAIFactionGervasii()

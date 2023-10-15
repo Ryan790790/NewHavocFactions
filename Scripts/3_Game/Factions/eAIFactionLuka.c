@@ -1,4 +1,4 @@
-[eAIRegisterFaction(eAIFactionMechanic)]
+[eAIRegisterFaction(eAIFactionLuka)]
 class eAIFactionLuka : eAIFaction
 {
 	void eAIFactionLuka()

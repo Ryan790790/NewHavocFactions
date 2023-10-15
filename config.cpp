@@ -1,4 +1,4 @@
-class CfgPatches
+class DayZ_Havoc_Expansion_Factions_scripts
 {
     class DayZ_Havoc_Expansion_Factions_scripts
     {
